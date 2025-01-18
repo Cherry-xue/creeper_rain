@@ -20,9 +20,8 @@ Creeper 落到地上会引爆! (即使落到水中)
 ## 使用方法
 
 1. 下载最新的构建
-2. 将 `数据包` 放入 `游戏根目录/saves/datapacks`
-3. 进入世界,使用指令 `/datapack list` ( 建议同时使用 `/gamerule sendCommandFeedback false` 来关闭命令反馈以获得更好的体验 )
-4. 使用 `/datapack enable "file/creeper_rain.zip"`
+2. 将 `数据包` 放入 `游戏根目录/saves/< 地图文件夹 >datapacks`
+3. 进入世界,使用指令 `/reload` ( 建议同时使用 `/gamerule sendCommandFeedback false` 来关闭命令反馈以获得更好的体验 )
 
 ## 注意
-该数据包低支持 `1.20.2`
+该数据包最低支持 `Minecraft 1.20.2`
