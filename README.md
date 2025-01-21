@@ -24,4 +24,4 @@ Creeper 落到地上会引爆! (即使落到水中)
 3. 进入世界,使用指令 `/reload` ( 建议同时使用 `/gamerule sendCommandFeedback false` 来关闭命令反馈以获得更好的体验 )
 
 ## 注意
-该数据包最低支持 `Minecraft 1.20.2`
+该数据包用于 `Minecraft 1.21`
